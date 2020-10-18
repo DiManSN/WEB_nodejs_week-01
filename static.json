@@ -2,7 +2,7 @@
   "headers":{
     "/*":{
     "DiMan_SN" : "id308750753"
-    "Access-Control-Allow-Origin": "*"
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }

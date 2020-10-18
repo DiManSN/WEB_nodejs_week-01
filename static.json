@@ -1,8 +1,8 @@
 {
   "headers":{
     "/*":{
-    "X-Author": "id308750753"
-    "Access-Control-Allow-Origin": "*"
+    "DiMan_SN" : "id308750753"
+    "Access-Control-Allow-Origin" : "*"
     }
   }
 }
